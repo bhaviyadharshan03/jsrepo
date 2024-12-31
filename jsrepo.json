@@ -1,0 +1,10 @@
+{
+  "$schema": "https://unpkg.com/jsrepo@1.23.1/schemas/project-config.json",
+  "repos": ["github/bhaviyadharshan03/jsrepo"],
+  "includeTests": false,
+  "watermark": false,
+  "formatter": "prettier",
+  "paths": {
+    "*": "./src/blocks"
+  }
+}
