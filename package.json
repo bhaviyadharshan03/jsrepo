@@ -1,0 +1,14 @@
+{
+  "name": "js-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx jsrepo build --dirs ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
